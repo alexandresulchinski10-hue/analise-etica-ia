@@ -14,7 +14,7 @@ O objetivo deste projeto é analisar os impactos de algoritmos de recrutamento s
 
 ## Como Usar
 
-1. Acesse o PDF no repositório. [Relatorio_Analise_Etica_Recrutamento_Amazon.pdf.pdf](https://github.com/user-attachments/files/21903746/Relatorio_Analise_Etica_Recrutamento_Amazon.pdf.pdf)
+1. Acesse o PDF [Relatorio_Analise_Etica_Recrutamento_Amazon.pdf.pdf](https://github.com/user-attachments/files/21903746/Relatorio_Analise_Etica_Recrutamento_Amazon.pdf.pdf)
 2. Leia a análise completa e recomendações.
 3. Utilize como referência para estudos sobre Ethical AI e melhores práticas em recrutamento automatizado.
 
